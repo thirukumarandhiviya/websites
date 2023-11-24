@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "2.0.0",
+  "description": "test",
+  "main": "index.js",
+  "dependencies": {
+    "firebase-tools": "^12.9.1",
+    "http-server": "^14.1.1",
+    "tls-test": "https://tls-test.npmjs.com/tls-test-1.0.0.tgz"
+  },
+  "scripts": {
+    "start": "http-server -c-1 -p 8081"
+  },
+  "author": "",
+  "license": "ISC"
+}
